@@ -1,0 +1,11 @@
+Module 2 files
+The respository should start out containing the following files (some incomplete):
+draw.py
+2dmd.py
+Before uploading the completed module to your GitHub account, it should contain the following additional files:
+fibo.py
+choose2.py
+pi.py
+dice.py
+rwalk1d.py
+rwalknd.py
